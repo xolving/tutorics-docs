@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kotlin/2. 기초 문법.md",
+                "file": "spring/others/1. Environment 객체.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kotlin/2. 기초 문법.md",
+                "file": "spring/others/1. Environment 객체.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kotlin/2. 기초 문법.md",
+                "file": "spring/others/1. Environment 객체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kotlin/2. 기초 문법.md"
+                "file": "spring/others/1. Environment 객체.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "ffc2af0e2fefd46d",
   "lastOpenFiles": [
-    "kotlin/1. 시작.md",
+    "spring/others",
     "kotlin/2. 기초 문법.md",
+    "spring/others/1. Environment 객체.md",
+    "spring",
+    "kotlin/1. 시작.md",
     "kotlin"
   ]
 }
