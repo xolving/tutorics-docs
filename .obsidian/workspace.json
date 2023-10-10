@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5cde8d5450441406",
+        "id": "41d6d17cc97c1ff7",
         "type": "tabs",
         "children": [
           {
-            "id": "ffc2af0e2fefd46d",
+            "id": "c8804bc2579e9cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/others/1. Environment 객체.md",
+                "file": "git/github/1. Issue template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/others/1. Environment 객체.md",
+                "file": "git/github/1. Issue template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring/others/1. Environment 객체.md",
+                "file": "git/github/1. Issue template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring/others/1. Environment 객체.md"
+                "file": "git/github/1. Issue template.md"
               }
             }
           }
@@ -146,11 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffc2af0e2fefd46d",
+  "active": "2cb120a872d1e086",
   "lastOpenFiles": [
+    "public/Screenshot 2023-10-10 at 10.08.59.png",
+    "public/Screenshot 2023-10-10 at 10.08.48.png",
+    "public/Screenshot 2023-10-10 at 10.07.53.png",
+    "\u001eScreenshot 2023-10-10 at 10.07.14.png.md",
+    "git/github/1. Issue template.md",
+    "public/Screenshot 2023-10-10 at 10.07.14.png",
+    "public/Screenshot 2023-10-10 at 10.05.12.png",
+    "public/Screenshot 2023-10-10 at 10.03.03.png",
+    "public/Screenshot 2023-10-10 at 10.02.13.png",
+    "public/Screenshot 2023-10-10 at 10.01.12.png",
+    "public/Screenshot 2023-10-10 at 10.00.46.png",
+    "spring/Screenshot 2023-10-10 at 09.56.04.png",
+    "public",
+    "public/Screenshot 2023-10-10 at 09.53.52.png",
+    "spring/others/1. Environment 객체.md",
+    "git/github",
+    "git",
     "spring/others",
     "kotlin/2. 기초 문법.md",
-    "spring/others/1. Environment 객체.md",
     "spring",
     "kotlin/1. 시작.md",
     "kotlin"
