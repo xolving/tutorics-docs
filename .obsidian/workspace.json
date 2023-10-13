@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "faynman technique/(Spring Security) JWT 인증.md",
+                "file": "learn/spring/1. 시작.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faynman technique/(Spring Security) JWT 인증.md",
+                "file": "learn/spring/1. 시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "faynman technique/(Spring Security) JWT 인증.md",
+                "file": "learn/spring/1. 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "faynman technique/(Spring Security) JWT 인증.md"
+                "file": "learn/spring/1. 시작.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "5a017c2ffa643265",
   "lastOpenFiles": [
-    "Screenshot 2023-10-13 at 23.27.54.png.md",
+    "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
+    "learn/spring/1. 시작.md",
     "faynman technique/(Spring Security) JWT 인증.md",
+    "learn/spring",
+    "learn/Untitled.md",
+    "Screenshot 2023-10-13 at 23.27.54.png.md",
     "Screenshot 2023-10-13 at 23.27.54.png",
     "public/faynman-jwt-2.png",
     "public/faynman-jwt-1.png",
@@ -169,7 +173,6 @@
     "learn/git",
     "learn",
     "faynman technique/(Spring Security) Authentication 인터페이스 분석해보기.md",
-    "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
     "faynman technique/(Spring Data) @ManyToMany @JoinTable @ManyToOne @OneToMany.md",
     "faynman technique/(Spring Data) @Entity @Table @Id @GeneratedValue @GenericGenerator.md",
     "faynman technique/(Spring Boot) Environment 객체.md",
@@ -183,7 +186,6 @@
     "kotlin/1. 시작.md",
     "kotlin",
     "tech/Resilience4j.md",
-    "untitled folder",
     "git/github/1. Issue template.md",
     "spring/cloud/2. 마이크로서비스 개발 패턴.md",
     "spring/cloud/1. 마이크로소프트 아키텍쳐.md",
