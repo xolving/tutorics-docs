@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learn/spring/1. 시작.md",
+                "file": "learn/spring/2. 프로젝트 생성하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn/spring/1. 시작.md",
+                "file": "learn/spring/2. 프로젝트 생성하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn/spring/1. 시작.md",
+                "file": "learn/spring/2. 프로젝트 생성하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learn/spring/1. 시작.md"
+                "file": "learn/spring/2. 프로젝트 생성하기.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "5a017c2ffa643265",
   "lastOpenFiles": [
-    "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
     "learn/spring/1. 시작.md",
+    "public/learn-spring-3.png",
+    "learn/spring/2. 프로젝트 생성하기.md",
+    "public/learn-spring-2.png",
+    "public/learn-spring-1.png",
+    "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
     "faynman technique/(Spring Security) JWT 인증.md",
     "learn/spring",
     "learn/Untitled.md",
@@ -161,9 +165,6 @@
     "public/git-github-issue-template-7.png",
     "public/git-github-issue-template-6.png",
     "public/git-github-issue-template-5.png",
-    "public/git-github-issue-template-4.png",
-    "public/git-github-issue-template-3.png",
-    "public/git-github-issue-template-2.png",
     "public",
     "learn/git/github/1. Issue template.md",
     "learn/kotlin/2. 기초 문법.md",
