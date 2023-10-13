@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41d6d17cc97c1ff7",
+        "id": "cefafdef0a7a6f23",
         "type": "tabs",
         "children": [
           {
-            "id": "c8804bc2579e9cb3",
+            "id": "5a017c2ffa643265",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "faynman technique/(Spring Security) JWT 인증.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "faynman technique/(Spring Security) JWT 인증.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "faynman technique/(Spring Security) JWT 인증.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "faynman technique/(Spring Security) JWT 인증.md"
               }
             }
           }
@@ -146,34 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cb120a872d1e086",
+  "active": "5a017c2ffa643265",
   "lastOpenFiles": [
-    "tech/Resilience4j.md",
-    "README.md",
+    "Screenshot 2023-10-13 at 23.27.54.png.md",
     "faynman technique/(Spring Security) JWT 인증.md",
-    "faynman technique/(Spring Data) @Entity @Table @Id @GeneratedValue @GenericGenerator.md",
-    "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
-    "faynman technique/(Spring Data) @ManyToMany @JoinTable @ManyToOne @OneToMany.md",
-    "faynman technique/(Spring Security) Authentication 인터페이스 분석해보기.md",
-    "faynman technique/(Hibernate) ddl-auto의 속성.md",
-    "faynman technique/(Spring Boot) Environment 객체.md",
-    "learn/kotlin/2. 기초 문법.md",
-    "learn/kotlin/1. 시작.md",
-    "learn/kotlin",
-    "learn/git/github/1. Issue template.md",
-    "learn/git/github",
-    "learn/git",
-    "learn",
-    "untitled folder",
-    "faynman technique",
-    "spring/others/1. Environment 객체.md",
-    "kotlin/1. 시작.md",
-    "kotlin/2. 기초 문법.md",
-    "tech",
-    "git/github/1. Issue template.md",
-    "spring/cloud/2. 마이크로서비스 개발 패턴.md",
-    "spring/cloud/1. 마이크로소프트 아키텍쳐.md",
-    "spring/cloud",
+    "Screenshot 2023-10-13 at 23.27.54.png",
+    "public/faynman-jwt-2.png",
+    "public/faynman-jwt-1.png",
     "public/git-github-issue-template-8.png",
     "public/git-github-issue-template-7.png",
     "public/git-github-issue-template-6.png",
@@ -181,11 +160,33 @@
     "public/git-github-issue-template-4.png",
     "public/git-github-issue-template-3.png",
     "public/git-github-issue-template-2.png",
-    "public/git-github-issue-template-1.png",
-    "public/Screenshot git-github-issue template-3.png",
-    "public/Screenshot git-github-issue template-2.png",
-    "\u001eScreenshot 2023-10-10 at 10.07.14.png.md",
     "public",
-    "git/github"
+    "learn/git/github/1. Issue template.md",
+    "learn/kotlin/2. 기초 문법.md",
+    "learn/kotlin/1. 시작.md",
+    "learn/git/github",
+    "learn/kotlin",
+    "learn/git",
+    "learn",
+    "faynman technique/(Spring Security) Authentication 인터페이스 분석해보기.md",
+    "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
+    "faynman technique/(Spring Data) @ManyToMany @JoinTable @ManyToOne @OneToMany.md",
+    "faynman technique/(Spring Data) @Entity @Table @Id @GeneratedValue @GenericGenerator.md",
+    "faynman technique/(Spring Boot) Environment 객체.md",
+    "faynman technique/(Hibernate) ddl-auto의 속성.md",
+    "faynman technique",
+    "README.md",
+    "spring/others/1. Environment 객체.md",
+    "spring/others",
+    "spring",
+    "kotlin/2. 기초 문법.md",
+    "kotlin/1. 시작.md",
+    "kotlin",
+    "tech/Resilience4j.md",
+    "untitled folder",
+    "git/github/1. Issue template.md",
+    "spring/cloud/2. 마이크로서비스 개발 패턴.md",
+    "spring/cloud/1. 마이크로소프트 아키텍쳐.md",
+    "\u001eScreenshot 2023-10-10 at 10.07.14.png.md"
   ]
 }
