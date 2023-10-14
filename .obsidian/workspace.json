@@ -4,22 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "cefafdef0a7a6f23",
-        "type": "tabs",
+        "id": "b56e363ae4f0d009",
+        "type": "split",
         "children": [
           {
-            "id": "5a017c2ffa643265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learn/spring/1. 시작.md",
-                "mode": "source",
-                "source": false
+            "id": "cefafdef0a7a6f23",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5a017c2ffa643265",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "6a645998437b3ff9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "972bd85bb5e8c8e2",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/hervtart/Documents/xolving/tutorics",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {},
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 124,
+                        "data": " \r\n\r\n\r\n\r\n\r\n\r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % git a",
+                        "rows": 20
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learn/spring/1. 시작.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +148,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learn/spring/1. 시작.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "learn/spring/1. 시작.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,52 +186,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "5a017c2ffa643265",
+  "active": "972bd85bb5e8c8e2",
   "lastOpenFiles": [
-    "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
-    "learn/spring/1. 시작.md",
+    "learn/github cli",
+    "learn/git/Untitled",
+    "learn/sql/2. SQL의 분류.md",
     "faynman technique/(Spring Security) JWT 인증.md",
-    "learn/spring",
-    "learn/Untitled.md",
-    "Screenshot 2023-10-13 at 23.27.54.png.md",
-    "Screenshot 2023-10-13 at 23.27.54.png",
-    "public/faynman-jwt-2.png",
-    "public/faynman-jwt-1.png",
-    "public/git-github-issue-template-8.png",
-    "public/git-github-issue-template-7.png",
-    "public/git-github-issue-template-6.png",
-    "public/git-github-issue-template-5.png",
-    "public/git-github-issue-template-4.png",
-    "public/git-github-issue-template-3.png",
-    "public/git-github-issue-template-2.png",
-    "public",
-    "learn/git/github/1. Issue template.md",
-    "learn/kotlin/2. 기초 문법.md",
-    "learn/kotlin/1. 시작.md",
-    "learn/git/github",
-    "learn/kotlin",
-    "learn/git",
-    "learn",
     "faynman technique/(Spring Security) Authentication 인터페이스 분석해보기.md",
+    "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
     "faynman technique/(Spring Data) @ManyToMany @JoinTable @ManyToOne @OneToMany.md",
     "faynman technique/(Spring Data) @Entity @Table @Id @GeneratedValue @GenericGenerator.md",
     "faynman technique/(Spring Boot) Environment 객체.md",
     "faynman technique/(Hibernate) ddl-auto의 속성.md",
-    "faynman technique",
+    "learn/sql/1. SQL의 시작.md",
+    "learn/spring/spring data/jpa/1. 내부속성 접근 방법.md",
+    "learn/sql",
+    "learn/spring/spring data",
+    "faynman technique/spring/(Hibernate) ddl-auto의 속성.md",
+    "learn/spring/spring data/jpa",
+    "learn/spring/Untitled.md",
+    "faynman technique/spring/(Spring Boot) Environment 객체.md",
+    "faynman technique/spring/(Spring Data) @Entity @Table @Id @GeneratedValue @GenericGenerator.md",
+    "faynman technique/spring/(Spring Security) Authentication 인터페이스 분석해보기.md",
+    "faynman technique/spring/(Spring Data) 다양한 데이터베이스의 설정.md",
+    "faynman technique/spring/(Spring Data) @ManyToMany @JoinTable @ManyToOne @OneToMany.md",
+    "faynman technique/react/1. 공식 문서 찾아보기.md",
+    "public/faynman-react-4.png",
+    "public/faynman-react-3.png",
+    "public/Screenshot 2023-10-14 at 15.56.17 1.png",
+    "public/faynman-react-2.png",
     "README.md",
-    "spring/others/1. Environment 객체.md",
-    "spring/others",
-    "spring",
-    "kotlin/2. 기초 문법.md",
-    "kotlin/1. 시작.md",
-    "kotlin",
-    "tech/Resilience4j.md",
-    "git/github/1. Issue template.md",
-    "spring/cloud/2. 마이크로서비스 개발 패턴.md",
-    "spring/cloud/1. 마이크로소프트 아키텍쳐.md",
-    "\u001eScreenshot 2023-10-10 at 10.07.14.png.md"
+    "public/faynman-react-1.png",
+    "faynman technique/react",
+    "faynman technique/Untitled.md",
+    "learn/java/swing/2. 간단하게 만들어보기.md",
+    "learn/java/swing/1. 컴포넌트와 컨테이너.md",
+    "learn/spring/2. 프로젝트 생성하기.md",
+    "learn/java/swing",
+    "learn/java",
+    "learn/Untitled.md",
+    "faynman technique/spring",
+    "learn/spring/1. 시작.md",
+    "public/learn-spring-3.png",
+    "public/learn-spring-2.png",
+    "public/learn-spring-1.png",
+    "learn/spring",
+    "Screenshot 2023-10-13 at 23.27.54.png",
+    "public/faynman-jwt-2.png",
+    "public"
   ]
 }
