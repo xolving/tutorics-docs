@@ -20,7 +20,7 @@
 ```
 ## 1.3 Signature
 서명은 Header의 인코딩된 값과 Payload의 인코딩된 값을 더한 후 정해진 secret으로 해싱됩니다.
-![](faynman-jwt-1.png)
+![](../../public/faynman-jwt-1.png)
 # 2. 예시 과정
 1. Header를 Base64로 인코딩합니다. -> Base64로 인코딩된 Header
 2. Payload를 Base64로 인코딩합니다. -> Base64로 인코딩된 Payload
@@ -28,4 +28,4 @@
 4. Header와 Payload를 합친 문자열을 Signature에서 지정한 secret으로 해싱합니다. -> 해싱된 Signature
 5. 해싱된 Signature를 Base64로 인코딩합니다. -> Base64로 인코딩된 Signature
 Base64로 인코딩된 Header(빨간색) + Base64로 인코딩된 Payload(주황색) + Base64로 인코딩된 Signature(파란색)
-![](faynman-jwt-2.png)
+![](../../public/faynman-jwt-2.png)
