@@ -11,12 +11,8 @@
             "id": "5a017c2ffa643265",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "faynman technique/(Spring Security) JWT 인증.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "faynman technique/(Spring Security) JWT 인증.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "faynman technique/(Spring Security) JWT 인증.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "faynman technique/(Spring Security) JWT 인증.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,49 +141,50 @@
   },
   "active": "5a017c2ffa643265",
   "lastOpenFiles": [
-    "faynman technique/(Spring Security) Authentication 인터페이스 분석해보기.md",
-    "faynman technique/(Spring Boot) Environment 객체.md",
-    "learn/spring/1. 시작.md",
-    "learn/github cli",
-    "learn/git/Untitled",
-    "learn/sql/2. SQL의 분류.md",
+    "learn/github/1. Issue template.md",
+    "learn/github",
     "faynman technique/(Spring Security) JWT 인증.md",
+    "faynman technique/(Spring Security) Authentication 인터페이스 분석해보기.md",
     "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
     "faynman technique/(Spring Data) @ManyToMany @JoinTable @ManyToOne @OneToMany.md",
     "faynman technique/(Spring Data) @Entity @Table @Id @GeneratedValue @GenericGenerator.md",
+    "faynman technique/(Spring Boot) Environment 객체.md",
     "faynman technique/(Hibernate) ddl-auto의 속성.md",
-    "learn/sql/1. SQL의 시작.md",
-    "learn/spring/spring data/jpa/1. 내부속성 접근 방법.md",
-    "learn/sql",
-    "learn/spring/spring data",
-    "faynman technique/spring/(Hibernate) ddl-auto의 속성.md",
-    "learn/spring/spring data/jpa",
-    "learn/spring/Untitled.md",
-    "faynman technique/spring/(Spring Boot) Environment 객체.md",
-    "faynman technique/spring/(Spring Data) @Entity @Table @Id @GeneratedValue @GenericGenerator.md",
-    "faynman technique/spring/(Spring Security) Authentication 인터페이스 분석해보기.md",
-    "faynman technique/spring/(Spring Data) 다양한 데이터베이스의 설정.md",
-    "faynman technique/spring/(Spring Data) @ManyToMany @JoinTable @ManyToOne @OneToMany.md",
-    "faynman technique/react/1. 공식 문서 찾아보기.md",
-    "public/faynman-react-4.png",
-    "public/faynman-react-3.png",
-    "public/Screenshot 2023-10-14 at 15.56.17 1.png",
-    "public/faynman-react-2.png",
-    "README.md",
-    "public/faynman-react-1.png",
-    "faynman technique/react",
-    "faynman technique/Untitled.md",
-    "learn/java/swing/2. 간단하게 만들어보기.md",
-    "learn/java/swing/1. 컴포넌트와 컨테이너.md",
-    "learn/spring/2. 프로젝트 생성하기.md",
-    "learn/java/swing",
-    "learn/java",
-    "learn/Untitled.md",
-    "faynman technique/spring",
     "public/learn-spring-3.png",
     "public/learn-spring-2.png",
     "public/learn-spring-1.png",
-    "learn/spring",
+    "public/faynman-react-4.png",
+    "public/faynman-react-3.png",
+    "public/faynman-react-2.png",
+    "public/faynman-react-1.png",
+    "learn/sql/2. SQL의 분류.md",
+    "learn/sql/1. SQL의 시작.md",
+    "learn/sql",
+    "learn/spring/spring data/jpa/1. 내부속성 접근 방법.md",
+    "learn/spring/spring data/jpa",
+    "learn/spring/spring data",
+    "learn/spring/2. 프로젝트 생성하기.md",
+    "learn/git/github/1. Issue template.md",
+    "learn/git/github",
+    "faynman technique/spring/(Spring Security) JWT 인증.md",
+    "faynman technique/spring/(Spring Security) Authentication 인터페이스 분석해보기.md",
+    "faynman technique/spring/(Spring Data) 다양한 데이터베이스의 설정.md",
+    "faynman technique/spring/(Spring Data) @ManyToMany @JoinTable @ManyToOne @OneToMany.md",
+    "faynman technique/spring/(Spring Data) @Entity @Table @Id @GeneratedValue @GenericGenerator.md",
+    "faynman technique/spring/(Spring Boot) Environment 객체.md",
+    "faynman technique/spring/(Hibernate) ddl-auto의 속성.md",
+    "faynman technique/spring",
+    "faynman technique/react/1. 공식 문서 찾아보기.md",
+    "faynman technique/react",
+    "learn/spring/1. 시작.md",
+    "learn/github cli",
+    "learn/git/Untitled",
+    "learn/spring/Untitled.md",
+    "public/Screenshot 2023-10-14 at 15.56.17 1.png",
+    "README.md",
+    "faynman technique/Untitled.md",
+    "learn/java/swing/2. 간단하게 만들어보기.md",
+    "learn/java/swing",
     "Screenshot 2023-10-13 at 23.27.54.png",
     "public/faynman-jwt-2.png"
   ]
