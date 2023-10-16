@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b56e363ae4f0d009",
-        "type": "split",
+        "id": "cefafdef0a7a6f23",
+        "type": "tabs",
         "children": [
           {
-            "id": "cefafdef0a7a6f23",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5a017c2ffa643265",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
+            "id": "5a017c2ffa643265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "faynman technique/(Spring Security) JWT 인증.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "6a645998437b3ff9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "972bd85bb5e8c8e2",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/Users/hervtart/Documents/xolving/tutorics",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/zsh",
-                        "name": "",
-                        "platforms": {
-                          "darwin": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": true,
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {},
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 124,
-                        "data": " \r\n\r\n\r\n\r\n\r\n\r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % \r\nhervtart@hervtart tutorics % git add .\r\nhervtart@hervtart tutorics % git commit -m 'update directory'\r\n[main 13fad1b] update directory\r\n 7 files changed, 414 insertions(+), 54 deletions(-)\r\n create mode 100644 .obsidian/community-plugins.json\r\n create mode 100644 .obsidian/plugins/terminal/data.json\r\n create mode 100644 .obsidian/plugins/terminal/main.js\r\n create mode 100644 .obsidian/plugins/terminal/manifest.json\r\n create mode 100644 .obsidian/plugins/terminal/styles.css\r\n rename learn/{git => }/github/1. Issue template.md (100%)\r\nhervtart@hervtart tutorics % git push origin main\r\nTo https://github.com/xolving/tutorics\r\n \u001b[31m! [rejected]       \u001b[0m main -> main (fetch first)\r\n\u001b[31merror: failed to push some refs to 'https://github.com/xolving/tutorics'\r\n\u001b[33mhint: Updates were rejected because the remote contains work that you do\r\nhint: not have locally. This is usually caused by another repository pushing\r\nhint: to the same ref. You may want to first integrate the remote changes\r\nhint: (e.g., 'git pull ...') before pushing again.\r\nhint: See the 'Note about fast-forwards' in 'git push --help' for details.\r\n\u001b[0mhervtart@hervtart tutorics % git push origin main -f\r\nEnumerating objects: 123, done.\r\nCounting objects: 100% (123/123), done.\r\nDelta compression using up to 12 threads\r\nCompressing objects: 100% (84/84), done.\r\nWriting objects: 100% (123/123), 2.94 MiB | 6.32 MiB/s, done.\r\nTotal 123 (delta 30), reused 90 (delta 21), pack-reused 0\r\nremote: Resolving deltas: 100% (30/30), done.\r\nremote: \u001b[31;1merror\u001b[0m: GH006: Protected branch update failed for refs/heads/main.\r\nremote: \u001b[31;1merror\u001b[0m: Changes must be made through a pull request. Cannot force-push to this branch\r\nTo https://github.com/xolving/tutorics\r\n \u001b[31m! [remote rejected]\u001b[0m main -> main (protected branch hook declined)\r\n\u001b[31merror: failed to push some refs to 'https://github.com/xolving/tutorics'\r\n\u001b[0mhervtart@hervtart tutorics % git branch \r\n  6283hz-fatch2\r\n* \u001b[32mmain\r\n\u001b[0mhervtart@hervtart tutorics % git checkout 6283hz-fatch2\r\nerror: Your local changes to the following files would be overwritten by checkout:\r\n\u001b[8C.obsidian/workspace.json\r\nPlease commit your changes or stash them before you switch branches.\r\nAborting\r\nhervtart@hervtart tutorics % git status\r\nOn branch main\r\nYour branch is ahead of 'origin/main' by 2 commits.\r\n  (use \"git push\" to publish your local commits)\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nhervtart@hervtart tutorics % git ad",
-                        "rows": 20
-                      }
-                    }
-                  },
-                  "pinned": true
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "faynman technique/(Spring Security) JWT 인증.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "faynman technique/(Spring Security) JWT 인증.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "faynman technique/(Spring Security) JWT 인증.md"
+              }
             }
           }
         ]
@@ -190,17 +147,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "972bd85bb5e8c8e2",
+  "active": "5a017c2ffa643265",
   "lastOpenFiles": [
+    "faynman technique/(Spring Security) Authentication 인터페이스 분석해보기.md",
+    "faynman technique/(Spring Boot) Environment 객체.md",
+    "learn/spring/1. 시작.md",
     "learn/github cli",
     "learn/git/Untitled",
     "learn/sql/2. SQL의 분류.md",
     "faynman technique/(Spring Security) JWT 인증.md",
-    "faynman technique/(Spring Security) Authentication 인터페이스 분석해보기.md",
     "faynman technique/(Spring Data) 다양한 데이터베이스의 설정.md",
     "faynman technique/(Spring Data) @ManyToMany @JoinTable @ManyToOne @OneToMany.md",
     "faynman technique/(Spring Data) @Entity @Table @Id @GeneratedValue @GenericGenerator.md",
-    "faynman technique/(Spring Boot) Environment 객체.md",
     "faynman technique/(Hibernate) ddl-auto의 속성.md",
     "learn/sql/1. SQL의 시작.md",
     "learn/spring/spring data/jpa/1. 내부속성 접근 방법.md",
@@ -230,13 +188,11 @@
     "learn/java",
     "learn/Untitled.md",
     "faynman technique/spring",
-    "learn/spring/1. 시작.md",
     "public/learn-spring-3.png",
     "public/learn-spring-2.png",
     "public/learn-spring-1.png",
     "learn/spring",
     "Screenshot 2023-10-13 at 23.27.54.png",
-    "public/faynman-jwt-2.png",
-    "public"
+    "public/faynman-jwt-2.png"
   ]
 }

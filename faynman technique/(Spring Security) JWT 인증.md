@@ -2,7 +2,7 @@
 ## 1.1 Header
 헤더는 arg와 typ으로 이루어져있습니다.
 - arg: 토큰의 타입을 나타냅니다. JWT
-- typ: 해싱 알고리즘을 지정합니다. HMAC HS256 등
+- typ: Signature를 해싱할 알고리즘을 지정합니다. HMAC HS256 등
 
 ```json
 {
