@@ -12,7 +12,7 @@
 다양한 활동을 앞으로도 이어나갈 예정입니다.
 
 해당 리포지토리에서 새로운 경험을 시작해 보세요.
-https://github.com/xolving/tutorics
+https://github.com/xolving/tutorics-docs
 
 ## 참고
 윈도우 OS 를 사용할 경우 파일명에 ? 가 있어 클론에 실패 할 수 있습니다.   
