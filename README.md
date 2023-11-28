@@ -19,4 +19,4 @@ https://github.com/xolving/tutorics-docs
 (예시 github/cli/1. Github CLI를 아시나요?.md)
 
 # 기여
-[CONTRIBUTING.md](./CONTRIBUTING.md) 를 참고해주세요.
+[CONTRIBUTING.md](./CONTRIBUTING.md)를 참고해주세요.
