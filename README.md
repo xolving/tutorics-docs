@@ -17,3 +17,6 @@ https://github.com/xolving/tutorics-docs
 ## 참고
 윈도우 OS 를 사용할 경우 파일명에 ? 가 있어 클론에 실패 할 수 있습니다.   
 (예시 github/cli/1. Github CLI를 아시나요?.md)
+
+# 기여
+[CONTRIBUTING.md](./CONTRIBUTING.md) 를 참고해주세요.
