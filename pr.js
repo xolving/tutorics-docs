@@ -63,7 +63,10 @@ try {
     }
 
     const args = argv.filter(item => item.startsWith('--') && item.includes(':')).reduce((result, current) => {
-        let [key, value] = current.substring(2).split(':');
+        let array = current.substring(2).split(':');
+        const key = array[0].trim();
+        const value = array.slice(1).join(':').trim().replaceAll('\\n', '\n');
+
         if (value.trim().length != 0) {
             result[key.trim()] = value.trim();
         }
@@ -129,8 +132,6 @@ try {
     rmSync(join(resolve(), file), { force: true, recursive: true });
 
     if (err) throw err;
-
-
 
 } catch (reason) {
     console.log('Error', reason.message);
