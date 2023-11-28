@@ -26,6 +26,9 @@
  * --how
  * 사용방법을 작성합니다.
  * 
+ * --other
+ * 기타를 작성합니다.
+ * 
  * author : kyutorials
  * create date : 2023-11-28
  * 
